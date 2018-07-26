@@ -1,0 +1,18 @@
+No.,rowID,stamp,Date and Time,Humidity ,Reasoning for Error
+,,,,,
+1,,1497849939, 2017/6/19 5:25:39,68.6,Missing rowID
+2,27249998," ""1497852512""", 2017/6/19 6:8:32,68.8,stamp in Quotation marks
+3,8408998,1497833629, 2017/12/19 0:53:49,69.2,Datetime and rowID seems mismatched 
+4,26904998,1497852166, 2017/6/19 6:2:46, null,"Humidity result is ""null"""
+,26905999,1497852167, 2017/6/19 6:2:47, null,"Humidity result is ""null"""
+5,316999,1497825518, 2017/6/18 22:38:38," ""64.70""",Humidity value is in Quotation marks 
+6,20554999,1497845802, 2017/6/19 4:16:42,0,Humidity value is zero 
+,20555999,1497845803, 2017/6/19 4:16:43,0,Humidity value is zero 
+,20556999,1497845804, 2017/6/19 4:16:44,0,Humidity value is zero 
+,20557999,1497845805, 2017/6/19 4:16:45,0,Humidity value is zero 
+,20559000,1497845806, 2017/6/19 4:16:46,0,Humidity value is zero 
+,20560000,1497845807, 2017/6/19 4:16:47,0,Humidity value is zero 
+,20560999,1497845808, 2017/6/19 4:16:48,0,Humidity value is zero 
+,20561999,1497845809, 2017/6/19 4:16:49,0,Humidity value is zero 
+,20562999,1497845810, 2017/6/19 4:16:50,0,Humidity value is zero 
+,20563999,1497845811, 2017/6/19 4:16:51,0,Humidity value is zero 
